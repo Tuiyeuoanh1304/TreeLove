@@ -168,7 +168,7 @@
 
             ctx.moveTo(0, 0);
             ctx.scale(0.75, 0.75);
-            ctx.font = "12px 微软雅黑,Gloria Hallelujah";
+            ctx.font = "12px Noto Sans,Caveat";
             ctx.fillText("Nhấn Đây Nè", 23, 10);
             ctx.restore();
         },
