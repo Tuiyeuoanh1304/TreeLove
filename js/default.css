@@ -1,4 +1,4 @@
-body{margin:0;padding:0;background-image:url("http://imgur.com/9SHW2XH.jpg");background-size:cover;background-repeat:no-repeat;font-size:20px;font-family:'Lobster','Lobster','Lobster';color:#8c007c;overflow:auto}
+body{margin:0;padding:0;background-image:url("http://imgur.com/9SHW2XH.jpg");background-size:cover;background-repeat:no-repeat;font-size:20px;font-family: 'sans-serif','sans-serif',sans-serif;color:#8c007c;overflow:auto}
 a {color:#8c007c;font-size:15px;text-decoration:none;}
 #main{width:100%;}
 #wrap{position:relative;margin:0 auto;width:1100px;height:680px;margin-top:10px;}
@@ -11,5 +11,5 @@ a {color:#8c007c;font-size:15px;text-decoration:none;}
 #canvas{margin:0 auto;width:1100px;height:680px;}
 #error{margin:0 auto;text-align:center;margin-top:60px;display:none;}
 .hand{cursor:pointer;}
-#code{width: 500px; color: #3b6900; font-family:Lobster;}
+#code{width: 500px; color: #3b6900; font-family: 'Brush Script MT', cursive;}
 .space{margin-right:150px;}
