@@ -1,9 +1,9 @@
-body{margin:0;padding:0;background-image:url("http://imgur.com/9SHW2XH.jpg");background-size:cover;background-repeat:no-repeat;font-size:20px;font-family:'sans-serif','sans-serif','sans-serif';color:#8c007c;overflow:auto}
+body{margin:0;padding:0;background-image:url("http://imgur.com/9SHW2XH.jpg");background-size:cover;background-repeat:no-repeat;font-size:20px;font-family:'Lobster','Lobster','Lobster';color:#8c007c;overflow:auto}
 a {color:#8c007c;font-size:15px;text-decoration:none;}
 #main{width:100%;}
 #wrap{position:relative;margin:0 auto;width:1100px;height:680px;margin-top:10px;}
 #text{width:400px;height:425px;left:60px;top:80px;position:absolute;}
-#code{display:none;font-size:18px;}
+#code{display:none;font-size:20px;}
 #clock-box {position:absolute;left:60px;top:550px;font-size:25px;display:none;}
 #clock-box a {font-size:28px;text-decoration:none;}
 #clock{margin-left:48px;}
